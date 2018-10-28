@@ -1,9 +1,7 @@
 # Español
-## Merkle
 
-Esta es una implementación de la función Merkle utilizada por (por ejemplo) Bitcoin para calcular sus transacciones.
+Estas funciones son implementaciones a Visual Basic 6.0.
 
 # Ingles
-## Merkle
 
-This is an implementation of Merkle function used (example) in Bitcoin for procesate his transactions.
+This functions are implementations to Visual Basic 6.0.
